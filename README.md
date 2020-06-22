@@ -11,14 +11,14 @@ An application that help track a workout plan that you set for yourself.
 * [Deployed Application](#Deployed-Application)
 * [Description](#Description)
 * [Built With](#Built-With)
-* [Authors](#Authors)
+* [Author](#Author)
 
 ## User Story
 
 ```
-*As a User
-* I WANT to track my workout
-* SO THAT I can see my progress and be able to repeat past workouts
+As a User
+I WANT to track my workouts
+SO THAT I can see my progress and be able to view, add, and repeat past workouts
 ```
 
 ## Deployed Application
@@ -29,3 +29,17 @@ You can access the application by going to:
 
 this application allows users to create a workout routine and track their progress.  The user will see how much they have done and how much they have gained in strength and endurance.  With users entering in the workout name, type (cardio, resistance), how much weight (if any), distance (if any), sets, reps, and duration or workout.  
 
+## Built With
+
+* HTML5
+* CSS 3
+* JS
+* GitHub
+* MongoDB
+* Mongoose
+* Heroku
+* Express
+
+## Author
+
+* Richard Kessler
