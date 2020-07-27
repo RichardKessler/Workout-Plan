@@ -23,7 +23,7 @@ SO THAT I can see my progress and be able to view, add, and repeat past workouts
 
 ## Deployed Application
 
-You can access the application by going to: 
+You can access the application by going to: https://workout-plan-2020.herokuapp.com/
 
 ## Description
 
